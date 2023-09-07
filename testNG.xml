@@ -1,0 +1,11 @@
+<suite name="suite">
+    <test name="test">
+        <classes>
+            <class name="TestCases.login_TCs"></class>
+            <class name="TestCases.register_TCs"></class>
+
+
+        </classes>
+
+    </test>
+</suite>
